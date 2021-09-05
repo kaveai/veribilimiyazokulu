@@ -1,6 +1,8 @@
 # YetGen Veri Bilimi Yaz Okulu
 6-7 Eylül 2021
 
+> Gerçek hayattan örnekler vermenin, kuru bilgiden çok daha değerli olduğuna inanarak, hikayesi ve uygulaması bol bir eğitim hazırladık. Umarım anlattığımız içerikler merakınızı çeker ve büyük bir iştahla veri bilimi dünyasına giriş yaparsınız. 
+
 
 # Ders Programı
 
@@ -8,11 +10,16 @@
 **11:00-11:45** | Veri Bilimi ve Yapay Öğrenmeye Giriş 
   - Yapay Kolektif Zeka Sunumu
   - [Kahramanlik Hikayeleri](https://www.linkedin.com/posts/uzaycetin_what-makes-a-hero-matthew-winkler-activity-6757670685889363968-Z6Mv)
-  - Python ile Veri Bilimi: [Notebook'lar](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
+  - Python ile Veri Bilimine Giriş: [Notebook](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
 
 **12:00-12.45** | Veri Biliminin Enstrumanları: Pandas & Numpy
-  - lorem ipsum lorem ipsum lorem ipsum
-  - Notebook-1 Notebook-2
+  - Numpy Array Yapısı ve Numpy'deki Popüler Fonksiyonlar
+  - Pandas
+    - Pandas Serileri & DataFrame Yapısı
+    - Pandas Filtreleme İşlemleri
+    - Pandas Groupby, Merge, Join ve Pivot Table Fonksiyonları
+    - Pandas ile Veri Seti Okuma Yöntemleri
+  - Notebook: [Pandas ve Numpy](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/Pandas%20ve%20Numpy.ipynb)
 
 **13:45-14:30** | En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__
   - Makineler nasıl öğrenir?
@@ -22,11 +29,15 @@
   - [YasamKocum Uygulamasi](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
   >> _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
 
+### Ödev
+Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıyın.
+  - [Yaşam Koçum W2Vec Video](https://www.youtube.com/watch?v=xz45EaSpf4Y)
+  - [Yaşam Koçum W2Vec Notebook](https://github.com/aycignl/python_hour/blob/master/life_coach_application.ipynb)
+
 
 ## 7 EYLÜL
 **11:00-11:45** | İşe Alım Simülasyonu, Yaşam Koçum W2Vec 
-  - [Yaşam Koçum W2Vec Video](https://www.youtube.com/watch?v=xz45EaSpf4Y)
-  - [Yaşam Koçum W2Vec Notebook](https://github.com/aycignl/python_hour/blob/master/life_coach_application.ipynb)
+  - İşe Alım Simülasyonu: [Notebook](https://github.com/kaveai/veribilimiyazokulu/blob/main/Pratikler/I%C5%9Fe%20Al%C4%B1m%20Robotu.ipynb)
 
 **12:00-12.45** | Öneri Sistemleri 
   - lorem ipsum lorem ipsum lorem ipsum
