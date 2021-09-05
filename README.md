@@ -16,7 +16,7 @@
 
 **13:45-14:30** | En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__
   - Makineler nasıl öğrenir?
-  - Notebook: [Gradyan İniş](https://github.com/kaveai/veribilimiyazokulu/blob/main/GradientDescent.ipynb)
+  - Notebook: [Gradyan İniş](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/GradientDescent.ipynb)
 
 **14:45-15:30** | Python ve Veri Bilimi Örnekleri (Basitleştirilmiş Yaşam Koçum)
   - [YasamKocum Uygulamasi](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
