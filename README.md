@@ -1,2 +1,4 @@
-# veribilimiyazokulu
-Yetgen Veri Bilimi Yaz Okulu
+# YetGen Veri Bilimi Yaz Okulu
+
+### 5-6 Eylül 2021
+
