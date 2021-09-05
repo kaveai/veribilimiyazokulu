@@ -1,7 +1,7 @@
 # YetGen Veri Bilimi Yaz Okulu
 6-7 Eylül 2021
 
-> Gerçek hayattan örnekler vermenin, kuru bilgiden çok daha değerli olduğuna inanarak, hikayesi ve uygulaması bol bir eğitim hazırladık. Umarım anlattığımız içerikler merakınızı çeker. Ve büyük bir iştahla veri bilimi dünyasına giriş yaparsınız. 
+> Gerçek hayattan örnekler vermenin, kuru bilgiden çok daha değerli olduğuna inanarak, hikayesi ve uygulaması bol bir eğitim hazırladık. Umarım anlattığımız içerikler merakınızı çeker ve büyük bir iştahla veri bilimi dünyasına giriş yaparsınız. 
 
 
 # Ders Programı
@@ -10,7 +10,7 @@
 **11:00-11:45** | Veri Bilimi ve Yapay Öğrenmeye Giriş 
   - Yapay Kolektif Zeka Sunumu
   - [Kahramanlik Hikayeleri](https://www.linkedin.com/posts/uzaycetin_what-makes-a-hero-matthew-winkler-activity-6757670685889363968-Z6Mv)
-  - Python ile Veri Bilimine Giriş: [Notebook](https://colab.research.google.com/drive/1WSkCAfItu1GfE2gQAMGeGzxGHdkvA50o?usp=sharing)
+  - Python ile Veri Bilimine Giriş: [Notebook](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
 
 **12:00-12.45** | Veri Biliminin Enstrumanları: Pandas & Numpy
   - Numpy Array Yapısı ve Numpy'deki Popüler Fonksiyonlar
