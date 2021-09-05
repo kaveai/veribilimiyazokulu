@@ -49,8 +49,8 @@ Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıy
   - Notebook-1 Notebook-2
 
 **13:45-14:30** | Anomali Tespiti 
-  - lorem ipsum lorem ipsum lorem ipsum
-  - Notebook-1 Notebook-2
+  - Python & Catboost/Isolation Forest ile KDD'99 datasında anormal durum tespiti
+  - Notebook: [KDD'99 datasında Anomali Tespiti](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/Anomaly_Detection.ipynb)
 
 **14:45-15:30** | Veri Toplama ve İşleme (Sosyal Medya İzleme)
   - Python & Tweepy ile Twitter verilerini toplama
