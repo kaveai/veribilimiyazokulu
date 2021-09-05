@@ -29,11 +29,15 @@
   - [YasamKocum Uygulamasi](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
   >> _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
 
+** Ödev
+Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıyın.
+  - [Yaşam Koçum W2Vec Video](https://www.youtube.com/watch?v=xz45EaSpf4Y)
+  - [Yaşam Koçum W2Vec Notebook](https://github.com/aycignl/python_hour/blob/master/life_coach_application.ipynb)
+
 
 ## 7 EYLÜL
 **11:00-11:45** | İşe Alım Simülasyonu, Yaşam Koçum W2Vec 
-  - [Yaşam Koçum W2Vec Video](https://www.youtube.com/watch?v=xz45EaSpf4Y)
-  - [Yaşam Koçum W2Vec Notebook](https://github.com/aycignl/python_hour/blob/master/life_coach_application.ipynb)
+  - İşe Alım Simülasyonu: [Notebook](https://github.com/kaveai/veribilimiyazokulu/blob/main/Pratikler/I%C5%9Fe%20Al%C4%B1m%20Robotu.ipynb)
 
 **12:00-12.45** | Öneri Sistemleri 
   - lorem ipsum lorem ipsum lorem ipsum
