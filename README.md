@@ -14,13 +14,15 @@
   - lorem ipsum lorem ipsum lorem ipsum
   - Notebook-1 Notebook-2
 
-**13:45-14:30** | En Temel Yapay Öğrenme Algoritması: Gradyan İniş
-  - lorem ipsum lorem ipsum lorem ipsum
-  - Notebook-1 Notebook-2
+**13:45-14:30** | En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__
+  - Makineler nasıl öğrenir?
+  - Notebook[Gradyan İniş](https://github.com/kaveai/veribilimiyazokulu/blob/main/GradientDescent.ipynb)
 
 **14:45-15:30** | Python ve Veri Bilimi Örnekleri (Basitleştirilmiş Yaşam Koçum)
-  - lorem ipsum lorem ipsum lorem ipsum
-  - Notebook-1 Notebook-2
+  - [YasamKocum Uygulamasi](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
+"""
+Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program
+"""
 
 ## 7 EYLÜL
 **11:00-11:45** | İşe Alım Simülasyonu, Yaşam Koçum W2Vec 
