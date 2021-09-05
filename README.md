@@ -12,7 +12,7 @@
 
 **12:00-12.45** | Veri Biliminin Enstrumanları: Pandas & Numpy
   - lorem ipsum lorem ipsum lorem ipsum
-  - Notebook-1 Notebook-2
+  - Notebook: [Pandas ve Numpy](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/Pandas%20ve%20Numpy.ipynb)
 
 **13:45-14:30** | En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__
   - Makineler nasıl öğrenir?
