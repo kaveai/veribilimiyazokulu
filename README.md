@@ -6,7 +6,7 @@
 
 ## 6 EYLÜL
 **11:00-11:45** | Veri Bilimi Nedir? Python ile Veri Bilimi
-  - lorem ipsum lorem ipsum lorem ipsum
+  - [Kahramanlik Hikayeleri](https://www.linkedin.com/posts/uzaycetin_what-makes-a-hero-matthew-winkler-activity-6757670685889363968-Z6Mv)
   - Notebook-1 Notebook-2
 
 **12:00-12.45** | Veri Biliminin Enstrumanları: Pandas & Numpy
