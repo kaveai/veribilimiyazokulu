@@ -8,7 +8,7 @@
 **11:00-11:45** | Veri Bilimi ve Yapay Öğrenmeye Giriş 
   - Yapay Kolektif Zeka Sunumu
   - [Kahramanlik Hikayeleri](https://www.linkedin.com/posts/uzaycetin_what-makes-a-hero-matthew-winkler-activity-6757670685889363968-Z6Mv)
-  - Python ile Veri Bilimi: Notebook-1 Notebook-2
+  - Python ile Veri Bilimi: [Notebook'lar](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
 
 **12:00-12.45** | Veri Biliminin Enstrumanları: Pandas & Numpy
   - lorem ipsum lorem ipsum lorem ipsum
@@ -16,13 +16,12 @@
 
 **13:45-14:30** | En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__
   - Makineler nasıl öğrenir?
-  - Notebook [Gradyan İniş](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/GradientDescent.ipynb)
+  - Notebook: [Gradyan İniş](https://github.com/kaveai/veribilimiyazokulu/blob/main/GradientDescent.ipynb)
 
 **14:45-15:30** | Python ve Veri Bilimi Örnekleri (Basitleştirilmiş Yaşam Koçum)
   - [YasamKocum Uygulamasi](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
-"""
-Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program
-"""
+> Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program
+
 
 ## 7 EYLÜL
 **11:00-11:45** | İşe Alım Simülasyonu, Yaşam Koçum W2Vec 
