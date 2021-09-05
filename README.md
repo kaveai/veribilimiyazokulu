@@ -10,7 +10,7 @@
 **11:00-11:45** | Veri Bilimi ve Yapay Öğrenmeye Giriş 
   - Yapay Kolektif Zeka Sunumu
   - [Kahramanlik Hikayeleri](https://www.linkedin.com/posts/uzaycetin_what-makes-a-hero-matthew-winkler-activity-6757670685889363968-Z6Mv)
-  - Python ile Veri Bilimi: [Notebook'lar](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
+  - Python ile Veri Bilimine Giriş: [Notebook](https://colab.research.google.com/drive/1WSkCAfItu1GfE2gQAMGeGzxGHdkvA50o?usp=sharing)
 
 **12:00-12.45** | Veri Biliminin Enstrumanları: Pandas & Numpy
   - Numpy Array Yapısı ve Numpy'deki Popüler Fonksiyonlar
