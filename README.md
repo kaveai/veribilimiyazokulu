@@ -37,7 +37,8 @@
   - Notebook-1 Notebook-2
 
 **14:45-15:30** | Veri Toplama ve İşleme (Sosyal Medya İzleme)
-  - lorem ipsum lorem ipsum lorem ipsum
-  - Notebook-1 Notebook-2
+  - Python & Tweepy ile Twitter verilerini toplama
+  - Transformers kütüphanesi ile önceden eğitilmiş duygu analizi modelini kullanma
+  - Notebook: [Twitter verisi ile duygu analizi](https://github.com/kaveai/veribilimiyazokulu/blob/main/Python%20ve%20Veri%20Bilimi%20%C3%96rnekleri/Twitter%20Verisi%20ile%20Duygu%20Analizi.ipynb)
 
 
