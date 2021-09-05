@@ -5,9 +5,10 @@
 # Ders Programı
 
 ## 6 EYLÜL
-**11:00-11:45** | Veri Bilimi Nedir? Python ile Veri Bilimi
+**11:00-11:45** | Veri Bilimi ve Yapay Öğrenmeye Giriş 
+  - Yapay Kolektif Zeka Sunumu
   - [Kahramanlik Hikayeleri](https://www.linkedin.com/posts/uzaycetin_what-makes-a-hero-matthew-winkler-activity-6757670685889363968-Z6Mv)
-  - Notebook-1 Notebook-2
+  - Python ile Veri Bilimi: Notebook-1 Notebook-2
 
 **12:00-12.45** | Veri Biliminin Enstrumanları: Pandas & Numpy
   - lorem ipsum lorem ipsum lorem ipsum
