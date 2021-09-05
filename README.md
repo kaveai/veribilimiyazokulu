@@ -11,7 +11,12 @@
   - Python ile Veri Bilimi: [Notebook'lar](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
 
 **12:00-12.45** | Veri Biliminin Enstrumanları: Pandas & Numpy
-  - lorem ipsum lorem ipsum lorem ipsum
+  - Numpy Array Yapısı ve Numpy'deki Popüler Fonksiyonlar
+  - Pandas
+    - Pandas Serileri & DataFrame Yapısı
+    - Pandas Filtreleme İşlemleri
+    - Pandas Groupby, Merge, Join ve Pivot Table Fonksiyonları
+    - Pandas ile Veri Seti Okuma Yöntemleri
   - Notebook: [Pandas ve Numpy](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/Pandas%20ve%20Numpy.ipynb)
 
 **13:45-14:30** | En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__
