@@ -29,7 +29,7 @@
   - [YasamKocum Uygulamasi](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
   >> _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
 
-** Ödev
+### Ödev
 Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıyın.
   - [Yaşam Koçum W2Vec Video](https://www.youtube.com/watch?v=xz45EaSpf4Y)
   - [Yaşam Koçum W2Vec Notebook](https://github.com/aycignl/python_hour/blob/master/life_coach_application.ipynb)
