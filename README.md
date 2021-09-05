@@ -1,9 +1,11 @@
 # YetGen Veri Bilimi Yaz Okulu
 6-7 Eylül 2021
 
-> Gerçek hayattan örnekler vermenin, kuru bilgiden çok daha değerli olduğuna inanarak, hikayesi ve uygulaması bol bir eğitim hazırladık. Umarım anlattığımız içerikler merakınızı çeker ve büyük bir iştahla veri bilimi dünyasına giriş yaparsınız. 
 
 ![[Youtube](https://www.youtube.com/watch?v=cr45U2dxyjY)](Pratikler/thumb.jpg) 
+
+> Gerçek hayattan örnekler vermenin, kuru bilgiden çok daha değerli olduğuna inanarak, hikayesi ve uygulaması bol bir eğitim hazırladık. Umarım anlattığımız içerikler merakınızı çeker ve büyük bir iştahla veri bilimi dünyasına giriş yaparsınız. 
+
 
 # Ders Programı
 
