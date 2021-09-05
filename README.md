@@ -38,7 +38,7 @@
 
 **14:45-15:30** | Veri Toplama ve İşleme (Sosyal Medya İzleme)
   - Python & Tweepy ile Twitter verilerini toplama
-  - Transformers kütüphanesi ile önceden eğitilmiş duygu analizi modelini kullanma
+  - Transformers kütüphanesi ile önceden eğitilmiş [BERT](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270?gi=2ab36d86429) duygu analizi modelini kullanma
   - Notebook: [Twitter verisi ile duygu analizi](https://github.com/kaveai/veribilimiyazokulu/blob/main/Python%20ve%20Veri%20Bilimi%20%C3%96rnekleri/Twitter%20Verisi%20ile%20Duygu%20Analizi.ipynb)
 
 
