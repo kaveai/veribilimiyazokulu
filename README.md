@@ -45,8 +45,8 @@ Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıy
   - İşe Alım Simülasyonu: [Notebook](https://github.com/kaveai/veribilimiyazokulu/blob/main/Pratikler/I%C5%9Fe%20Al%C4%B1m%20Robotu.ipynb)
 
 **12:00-12.45** | Öneri Sistemleri 
-  - lorem ipsum lorem ipsum lorem ipsum
-  - Notebook-1 Notebook-2
+  - Python & Demographic/Content Based Filtering ile TMDB 5000 MOVIE datasında öneri sistemi
+  - Notebook: [Movie Recommender](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/Anomaly_Detection.ipynb)
 
 **13:45-14:30** | Anomali Tespiti 
   - Python & Catboost/Isolation Forest ile KDD'99 datasında anormal durum tespiti
