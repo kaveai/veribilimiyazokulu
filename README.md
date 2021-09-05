@@ -14,7 +14,7 @@
   - lorem ipsum lorem ipsum lorem ipsum
   - Notebook-1 Notebook-2
 
-**13:45-14:30** | Gradyan İniş & Makine Öğrenmesi Algoritmaları 
+**13:45-14:30** | En Temel Yapay Öğrenme Algoritması: Gradyan İniş
   - lorem ipsum lorem ipsum lorem ipsum
   - Notebook-1 Notebook-2
 
