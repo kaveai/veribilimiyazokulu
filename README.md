@@ -20,7 +20,7 @@
 
 **14:45-15:30** | Python ve Veri Bilimi Örnekleri (Basitleştirilmiş Yaşam Koçum)
   - [YasamKocum Uygulamasi](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
-  - > Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program
+  >> _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
 
 
 ## 7 EYLÜL
