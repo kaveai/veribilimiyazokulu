@@ -14,7 +14,7 @@
 ## 6 EYLÜL
 **11:00-11:45** | Veri Bilimi ve Yapay Öğrenmeye Giriş 
   - Yapay Kolektif Zeka Sunumu, 
-  - Makale >Uzay Çetin (2020). Kompleks Sistemler ve Veri Bilimi . Yildiz Social Science Review , 6 (2) , 119-130 . DOI: 10.51803/yssr.833992 https://lnkd.in/dKAmcbqc
+   - > Uzay Çetin (2020). Kompleks Sistemler ve Veri Bilimi . Yildiz Social Science Review , 6 (2) , 119-130 . DOI: 10.51803/yssr.833992 https://lnkd.in/dKAmcbqc
   - [Kahramanlik Hikayeleri](https://www.linkedin.com/posts/uzaycetin_what-makes-a-hero-matthew-winkler-activity-6757670685889363968-Z6Mv)
   - Python ile Veri Bilimine Giriş: [Notebook](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
 
