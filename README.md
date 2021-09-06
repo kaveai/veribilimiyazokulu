@@ -17,9 +17,15 @@ Diğer eğitimlerimize ulaşmak için topluluğumuzu [LinkedIn](https://www.link
   - Yapay Kolektif Zeka Sunumu,
     - Makale: _Uzay Çetin (2020). Kompleks Sistemler ve Veri Bilimi . Yildiz Social Science Review , 6 (2) , 119-130._ [DOI: 10.51803/yssr.833992](https://dergipark.org.tr/tr/download/article-file/1424428)
   - Tekrar eden örüntülerden oluşan evrenin anlaşılabilir yapısına örnek: [Kahramanlik Hikayeleri](https://www.linkedin.com/posts/uzaycetin_what-makes-a-hero-matthew-winkler-activity-6757670685889363968-Z6Mv)
-  - Python ile Veri Bilimine Giriş: [Notebook](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
 
-**12:00-12.45** | Veri Biliminin Enstrumanları: Pandas & Numpy
+**12:00-12.45** | Python ile Veri Bilimine Giriş
+  - Python Veri Yapıları
+  - Python Fonksiyonlar
+  - Sınıf Yapısı
+  - Dosya Okuma
+  - Notebook: [Python ile Veri Bilimine Giriş](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
+
+**13:45-14.30** | Veri Biliminin Enstrumanları: Pandas & Numpy
   - Numpy Array Yapısı ve Numpy'deki Popüler Fonksiyonlar
   - Pandas
     - Pandas Serileri & DataFrame Yapısı
@@ -28,13 +34,9 @@ Diğer eğitimlerimize ulaşmak için topluluğumuzu [LinkedIn](https://www.link
     - Pandas ile Veri Seti Okuma Yöntemleri
   - Notebook: [Pandas ve Numpy](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/Pandas%20ve%20Numpy.ipynb)
 
-**13:45-14:30** | En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__
+**14:30-15:30** | En Temel Yapay Öğrenme Algoritması: __Gradyan İniş__
   - Makineler nasıl öğrenir?
   - Notebook: [Gradyan İniş](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/GradientDescent.ipynb)
-
-**14:45-15:30** | Python ve Veri Bilimi Örnekleri (Basitleştirilmiş Yaşam Koçum)
-  - [YasamKocum Uygulamasi](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
-  >> _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
 
 ### Ödev
 Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıyın.
@@ -44,6 +46,8 @@ Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıy
 
 ## 7 EYLÜL
 **11:00-11:45** | İşe Alım Simülasyonu, Yaşam Koçum W2Vec 
+  - [YasamKocum Uygulamasi](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
+  >> _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
   - İşe Alım Simülasyonu: [Notebook](https://github.com/kaveai/veribilimiyazokulu/blob/main/Pratikler/I%C5%9Fe%20Al%C4%B1m%20Robotu.ipynb)
 
 **12:00-12.45** | Öneri Sistemleri 
