@@ -46,7 +46,7 @@ Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıy
 
 ## 7 EYLÜL
 **11:00-11:45** | İşe Alım Simülasyonu, Yaşam Koçum W2Vec 
-  - [YasamKocum Uygulamasi](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
+  - [YasamKocum Uygulamasi](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi), basit cevap [linki](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/4a2%20-%20(Basitlestirilmis)%20Yasam%20Kocu%20Uygulamasi%20CEVAPLAR.ipynb)
   >> _Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program_
   - İşe Alım Simülasyonu: [Notebook](https://github.com/kaveai/veribilimiyazokulu/blob/main/Pratikler/I%C5%9Fe%20Al%C4%B1m%20Robotu.ipynb)
 
